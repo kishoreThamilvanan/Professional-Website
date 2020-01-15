@@ -4,7 +4,7 @@
     "occupation":"Senior Computer Science Major specialized in Artificial Intelligence and Data Science",
     "description":"Inquisitive, energetic computer science major skilled in leadership, with a strong foundation in math, logic, and cross-platform coding. Seeking to leverage solid skills in collaboration, communication, and development as a programmer for budding and established companies.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "kishore.thamilvanan@gmail.com",
     "phone": "646-407-XXXX",
@@ -45,7 +45,7 @@
       {
         "name":"skype",
         "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "className":"live:kishore.thamilvanan"
       }
     ]
   },
@@ -55,13 +55,15 @@
       {
         "school":"Stony Brook University",
         "degree":"Bachelor of Science in Computer Science, specialization in Artificial Intelligence and Data Science.",
-        "graduated":"Expected graduation: Spring 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":"Spring 2017 - Spring 2020",
+        "location": "Stony Brook, New York, NY - 11790",
+        "description":"A Tough"
       },
       {
         "school":"SSN College of engineering",
         "degree":"Bachelor of science in Electrical and Electronics Engineering",
         "graduated":"Spring 2016",
+        "location": "Tamil Nadu, India - 603110",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
