@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9626b574-225b-44db-9b83-d1bfbb5630c4" name="Default Changelist" comment="" />
+    <list default="true" id="9626b574-225b-44db-9b83-d1bfbb5630c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/portfolio/NYC_int_dash.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/canadian-wanderlust.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/fury-fighting-gear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/original-thai-food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/resume-website.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/smirkspace.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/profilepic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/profilepic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resumeData.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resumeData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +88,7 @@
       <workItem from="1578627854656" duration="606000" />
       <workItem from="1578676585850" duration="2198000" />
       <workItem from="1579047171750" duration="6773000" />
+      <workItem from="1579198367758" duration="2546000" />
     </task>
     <servers />
   </component>

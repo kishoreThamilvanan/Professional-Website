@@ -50,21 +50,22 @@
     ]
   },
   "resume":{
-    "skillmessage":"",
+    "skillmessage":"Effective communication, Quick decision making, logical reasoning ",
+
     "education":[
       {
         "school":"Stony Brook University",
         "degree":"Bachelor of Science in Computer Science, specialization in Artificial Intelligence and Data Science.",
         "graduated":"Spring 2017 - Spring 2020",
         "location": "Stony Brook, New York, NY - 11790",
-        "description":"A Tough"
+        "description":"Computer Science in Stony Brook "
       },
       {
         "school":"SSN College of engineering",
         "degree":"Bachelor of science in Electrical and Electronics Engineering",
-        "graduated":"Spring 2016",
+        "graduated":"Fall 2016",
         "location": "Tamil Nadu, India - 603110",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"A diverse learning environment"
       }
     ],
     "work":[
@@ -82,7 +83,7 @@
       },
       {
         "name":"JavaScript",
-        "level":"55%"
+        "level":"89%"
       },
       {
         "name":"ReactJs",
@@ -97,8 +98,8 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Java",
+        "level":"95%"
       },
       {
         "name":"MongoDB",
@@ -109,14 +110,14 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"NYC airbnb data integrated dashboard",
+        "category":"Data visualization using Data Science ",
+        "image":"NYC_int_dash.PNG",
+        "url":"https://nyc-airbnb-data-integ-dash.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"# layer voice neural network",
+        "category":"celebrity voice recognition model",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
       },
